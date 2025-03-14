@@ -68,8 +68,8 @@
                 Grid.Row="2"
                 Grid.Column="5"
                 HorizontalAlignment="Center"
-                VerticalAlignment="Center" 
-                Source="/images/cards/jack_of_clubs2.png" />
+                VerticalAlignment="Center"
+                Source="/images/cards/ace_of_spades2.png" />
 
         </Grid>
     </Grid>
