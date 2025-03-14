@@ -69,7 +69,7 @@
                 Grid.Column="5"
                 HorizontalAlignment="Center"
                 VerticalAlignment="Center"
-                Source="/images/cards/8_of_clubs.png" />
+                Source="/images/cards/7_of_diamonds.png" />
 
         </Grid>
     </Grid>
