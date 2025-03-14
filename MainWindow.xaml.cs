@@ -25,7 +25,7 @@ public partial class MainWindow : Window
 
     private void dealBtn_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
     {
-        slot1.Source = null;
+        slot5.Source = null;
         slot2.Source = null;
         slot3.Source = null;
         slot4.Source = null;
