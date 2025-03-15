@@ -62,7 +62,9 @@
                 Grid.Row="2"
                 Grid.Column="4"
                 HorizontalAlignment="Center"
-                VerticalAlignment="Center" />
+                VerticalAlignment="Center"
+                Source="/images/cards/8_of_diamonds.png" />
+                
             <Image
                 x:Name="slot5"
                 Grid.Row="2"
